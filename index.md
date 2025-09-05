@@ -16,8 +16,6 @@ Syntax highlighted code block
 - The chill enviroment
 - The professors
 
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
